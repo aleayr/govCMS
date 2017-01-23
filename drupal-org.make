@@ -15,7 +15,7 @@ projects[bean_panels][version] = "1.3"
 projects[bigmenu][version] = "1.3"
 projects[breakpoints][version] = "1.3"
 projects[ccl][version] = "1.5"
-projects[chosen][version] = "2.0-beta4"
+projects[chosen][version] = "2.0"
 projects[context][version] = "3.6"
 projects[clamav][version] = "1.0-beta1"
 projects[crumbs][version] = "2.3"
@@ -191,7 +191,7 @@ projects[shiny][version] = "1.7"
 ; Libraries
 
 libraries[chosen][download][type] = "get"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.4.2/chosen_v1.4.2.zip"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.6.2/chosen_v1.6.2.zip"
 libraries[chosen][directory_name] = "chosen"
 libraries[chosen][type] = "library"
 
